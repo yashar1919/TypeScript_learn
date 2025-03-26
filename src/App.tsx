@@ -27,7 +27,7 @@ function App() {
 
   const sum = (a: number, b: number): number => {
     return a + b;
-  };
+  }; // comment for test
 
   const minus = (a: number, b: number): number => {
     return a - b;
